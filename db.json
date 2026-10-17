@@ -1,0 +1,287 @@
+{
+  "headers": [
+    {
+      "id": 1,
+      "src": "./public/images/2.svg",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "title": "فیلم",
+      "href": "#"
+    },
+    {
+      "id": 3,
+      "title": "سریال",
+      "href": "#"
+    },
+    {
+      "id": 4,
+      "title": "ایرانی",
+      "href": "#"
+    },
+    {
+      "id": 5,
+      "title": "خارجی",
+      "href": "#"
+    },
+    {
+      "id": 6,
+      "title": "مجموعه ها",
+      "href": "#"
+    },
+    {
+      "id": 7,
+      "title": "فیلیمو مدرسه",
+      "href": "#"
+    },
+    {
+      "id": 8,
+      "title": "کودک",
+      "href": "#"
+    },
+    {
+      "id": 9,
+      "title": "جستجو",
+      "href": "#"
+    }
+  ],
+  "headerLoginBtn": [
+    {
+      "id": 1,
+      "title": "ورود"
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "src": "./public/images/slider/2.webp",
+      "title": "تماشای گامبی وزیر",
+      "btnTitle": "تماشای رایگان"
+    },
+    {
+      "id": 2,
+      "src": "./public/images/slider/3.webp",
+      "title": "تلاش برای زنده ماندن",
+      "btnTitle": "تماشای رایگان"
+    },
+    {
+      "id": 3,
+      "src": "./public/images/slider/1.webp",
+      "title": "پیشنهاد هفتصد میلیونی",
+      "btnTitle": "تماشای رایگان"
+    }
+  ],
+  "special": [
+    {
+      "id": 1,
+      "src": "./public/images/grade/1.webp",
+      "title": "برنامه اول",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 2,
+      "src": "./public/images/grade/2.webp",
+      "title": "برنامه دوم",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 3,
+      "src": "./public/images/grade/3.webp",
+      "title": "برنامه سوم",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 4,
+      "src": "./public/images/grade/4.webp",
+      "title": "برنامه چهارم",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 5,
+      "src": "./public/images/grade/5.webp",
+      "title": "برنامه پنجم",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 6,
+      "src": "./public/images/grade/6.webp",
+      "title": "برنامه ششم",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 7,
+      "src": "./public/images/grade/7.webp",
+      "title": "برنامه هفتم",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 8,
+      "src": "./public/images/grade/8.webp",
+      "title": "برنامه هشتم",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 9,
+      "src": "./public/images/grade/9.webp",
+      "title": "برنامه نهم",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 10,
+      "src": "./public/images/grade/4.webp",
+      "title": "برنامه دهم",
+      "badge": "اختصاصی"
+    }
+  ],
+  "comedy": [
+    {
+      "id": 1,
+      "title": "فان اوپاتولوژی - فصل اول",
+      "src": "./public/images/sid/1.webp",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 2,
+      "title": "شارلاتان",
+      "src": "./public/images/sid/2.webp",
+      "badge": ""
+    },
+    {
+      "id": 3,
+      "title": "جوکر - فصل اول",
+      "src": "./public/images/sid/3.webp",
+      "badge": "اختصاصی"
+    },
+    {
+      "id": 4,
+      "title": "سوغات فرنگ",
+      "src": "./public/images/sid/4.webp",
+      "badge": ""
+    },
+    {
+      "id": 5,
+      "title": "مامان بزرگ منو زد",
+      "src": "./public/images/sid/5.webp",
+      "badge": ""
+    },
+    {
+      "id": 6,
+      "title": "دفتر میلیونی",
+      "src": "./public/images/sid/6.webp",
+      "badge": ""
+    },
+    {
+      "id": 7,
+      "title": "اسی و یاسی",
+      "src": "./public/images/sid/4.webp",
+      "badge": ""
+    },
+    {
+      "id": 8,
+      "title": "ثبت با سند برابر است",
+      "src": "./public/images/sid/2.webp",
+      "badge": ""
+    }
+  ],
+  "newItems": [
+    {
+      "id": 1,
+      "title": "قسمت جدید",
+      "src": "./public/images/new/1.webp",
+      "badge": "تازه"
+    },
+    {
+      "id": 2,
+      "title": "فیلم جدید",
+      "src": "./public/images/new/2.webp",
+      "badge": "تازه"
+    },
+    {
+      "id": 3,
+      "title": "سریال جدید",
+      "src": "./public/images/new/3.webp",
+      "badge": ""
+    },
+    {
+      "id": 4,
+      "title": "برنامه جدید",
+      "src": "./public/images/new/4.webp",
+      "badge": "تازه"
+    },
+    {
+      "id": 5,
+      "title": "پیشنهاد جدید",
+      "src": "./public/images/new/5.webp",
+      "badge": ""
+    },
+    {
+      "id": 6,
+      "title": "تماشای آنلاین",
+      "src": "./public/images/new/6.webp",
+      "badge": "تازه"
+    },
+    {
+      "id": 7,
+      "title": "مجموعه جدید",
+      "src": "./public/images/new/3.webp",
+      "badge": ""
+    },
+    {
+      "id": 8,
+      "title": "ویژه تماشا",
+      "src": "./public/images/new/5.webp",
+      "badge": "تازه"
+    }
+  ],
+  "hottest": [
+    {
+      "id": 1,
+      "title": "فیلم شماره یک",
+      "src": "./public/images/host/1.webp",
+      "badge": "داغ"
+    },
+    {
+      "id": 2,
+      "title": "سریال شماره دو",
+      "src": "./public/images/host/2.webp",
+      "badge": "داغ"
+    },
+    {
+      "id": 3,
+      "title": "برنامه شماره سه",
+      "src": "./public/images/host/3.webp",
+      "badge": ""
+    },
+    {
+      "id": 4,
+      "title": "فیلم شماره چهار",
+      "src": "./public/images/host/4.webp",
+      "badge": "داغ"
+    },
+    {
+      "id": 5,
+      "title": "سریال شماره پنج",
+      "src": "./public/images/host/5.webp",
+      "badge": ""
+    },
+    {
+      "id": 6,
+      "title": "فیلم شماره شش",
+      "src": "./public/images/host/6.webp",
+      "badge": "داغ"
+    },
+    {
+      "id": 7,
+      "title": "برنامه شماره هفت",
+      "src": "./public/images/host/1.webp",
+      "badge": ""
+    },
+    {
+      "id": 8,
+      "title": "فیلم شماره هشت",
+      "src": "./public/images/host/3.webp",
+      "badge": "داغ"
+    }
+  ]
+}
